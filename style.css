@@ -206,15 +206,16 @@
             }
         }
         
+       
         @media (max-width:400px) {
             section .contentbx .formbx h3 {
                 position: relative;
-                bottom: 25px;
+                top: 30px;
                 font-size: 1em;
             }
             section .contentbx .formbx .sci li {
                 position: relative;
-                bottom: 15px;
+                top: 45px;
             }
             /* section .contentbx .formbx .inputbx p,
             section .contentbx .formbx .inputbx p a {
@@ -224,4 +225,13 @@
                 align-items: center;
                 text-align: center;
             } */
+            section .contentbx .formbx {
+                position: relative;
+                top: 40px;
+            }
+            section .contentbx .formbx .inputbx p {
+                color: #607d8b;
+                position: relative;
+                top: 30px;
+            }
         }
