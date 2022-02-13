@@ -225,10 +225,7 @@
                 align-items: center;
                 text-align: center;
             } */
-            section .contentbx .formbx {
-                position: relative;
-                top: 40px;
-            }
+           
             section .contentbx .formbx .inputbx p {
                 color: #607d8b;
                 position: relative;
